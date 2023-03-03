@@ -1,5 +1,6 @@
 ### Hi there!
 
+I'm a student at the Warsaw University of Technology, Electronics and Telecommunication.
 In 2022 I've joined the **EPAM Academy** and learned me some Java.
 
 Now I'm trying to make what I've learned into a portfolio worthy enough to be hired as a Junior Java Developer.
